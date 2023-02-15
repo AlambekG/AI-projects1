@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "list": "cpp",
+        "__config": "cpp",
+        "unordered_map": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp"
+    }
+}
